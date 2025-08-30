@@ -29,3 +29,5 @@ for development setup.
 
 All actors calling APIs in production will use [service accounts](https://cloud.google.com/compute/docs/access/service-accounts).
 We will use a Google Cloud Project owned by Vanderbilt for testing: `aou-res-curation-test`.
+
+<!-- Updated on 2025-08-29 20:48:25 by automated script -->
